@@ -1,5 +1,5 @@
 # Bachelor thesis python scripts
-The scripts written for my bachelor thesis.
+The scripts I wrote for my bachelor thesis.
 
 Includes:  
 - the scripts to create CMDs for the three datasets I used  
