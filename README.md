@@ -8,3 +8,5 @@ Includes:
 - the scripts for the log(g) and T_eff comparisons  
 - the scripts to plot spectra from the FITS files  
 - the script for transforming coordinates from degree to hours
+
+The datasets referenced in the scripts are not provided here.
